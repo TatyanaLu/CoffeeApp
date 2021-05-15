@@ -1,0 +1,66 @@
+.Main-back{
+    position:fixed;
+    width: 100%;
+    right: 0;
+}
+
+.Main-n{
+    position:fixed;
+    width: 95%;
+    right: 1cm;
+    top: 20px;
+}
+.r{
+    position:fixed;
+    width: 150%;
+    left: 1cm;
+    top: 200px;
+    
+}
+.t{
+font-family: NEONCITY Script;
+font-style: normal;
+font-weight:bolder;
+font-size: 25px;
+color: #000000;
+  
+}
+a {
+    color: rgb(0, 0, 0);
+}
+
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 52%;
+    height: 10cm;
+    text-align: left;
+}
+.pict{
+    position:fixed;
+    width: 30%;
+    left: 42%;
+    top: 220px;
+}
+.picttextt{
+    position:fixed;
+    width: 21%;
+    left: 74%;
+    top: 235px;
+    
+font-family: Monotype Corsiva;
+font-style: italic;
+font-weight: normal;
+font-size: 20px;
+line-height: 90.8%;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  
+    padding: 2px 2px;
+}

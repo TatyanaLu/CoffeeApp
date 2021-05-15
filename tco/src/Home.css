@@ -1,0 +1,43 @@
+.Home {
+    text-align: center;
+    
+  }
+  .Homek{
+      position:fixed;
+      width: 100%;
+      right: 0;
+      height: 100%;
+      background-color: rgb(0, 0, 0); 
+      
+    }
+    .Home-back{
+        position:fixed;
+        width: 100%;
+        right: 0;
+    }
+   
+    .Home-link {
+        position:fixed;
+        font-family: Pinyon Script;
+        font-size: 38px;
+        color: #000000;
+      }
+      .Home-log{
+        position:fixed;
+        width: 80%;
+        top: 20px;
+        left: 6%;
+    }
+
+    .Form{
+      position:fixed;
+      width: 40%;
+      top: 310px;
+      left: 30%;
+  }
+    
+        
+       
+         
+ 
+  

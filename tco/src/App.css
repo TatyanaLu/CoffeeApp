@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  position:fixed;
+  top: 4%;
+  left: 730px;
+  pointer-events: none;
+  height: 40%;
+}
+
+.App-pic {
+  position:fixed;
+  top: 0%;
+  left:20px;
+  pointer-events: none;
+  width: 90%;
+}
+
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  color: white;
+}
+
+.App-link {
+  position:fixed;
+  height: 38px;
+  right: 25px;
+  top: 10px;
+  font-family: Pinyon Script;
+  font-size: 38px;
+  color: #000000;
+}
+
+.App-back{
+position:fixed;
+width: 100%;
+right: 0;
+ }
